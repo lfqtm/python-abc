@@ -1,2 +1,2 @@
 # python-abc
-python学习
+python
